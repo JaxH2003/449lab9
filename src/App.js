@@ -14,6 +14,7 @@ const films = [
   { id: 1, title: 'Star Wars: A New Hope', theme: 'space', isGood: true },
   { id: 2, title: 'Star Wars: Revenge of the Sith', theme: 'space', isGood: true },
   { id: 3, title: 'Star Wars: The Last Jedi ', theme: 'space', isGood: false },
+  { id: 4, title: 'Star Wars: Return of the Jedi ', theme: 'space', isGood: true },
 ];
 
 function MoviesList() {
